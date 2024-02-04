@@ -1,4 +1,5 @@
 ---
+![image](https://github.com/SayedShaun/Resume-ATS/assets/126845316/9ad2762c-3e25-4c29-a83c-73bc22e51c02)
 
 # Resume ATS System
 
