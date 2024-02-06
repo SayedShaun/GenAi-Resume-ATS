@@ -1,6 +1,6 @@
 ---
 
-# Resume ATS System
+![Screenshot 2024-02-04 122257](https://github.com/SayedShaun/Resume-ATS/assets/126845316/05cad362-63de-42c1-b6c6-6e6b70ae0f0c)
 
 The Resume ATS (Applicant Tracking System) is a tool designed to assist in matching resumes with job descriptions. This system utilizes the Google Gemini Pro model to analyze resumes and provide relevant matches based on the provided job description.
 
